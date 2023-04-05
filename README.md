@@ -1,17 +1,17 @@
 ### Olá, eu sou o Eduardo 👋🏼
 
 
-- 🔭 Em busca do primeiro emprego como Front-End
-- 🌱 Conhecimentos em HTML, CSS e MySql
-- 👯 Aprendendo Javascript
-- 😄 Pronouns: ele/dele
+- 💻 Em busca do primeiro emprego como Front-End
+- 📚 Conhecimentos em HTML, CSS e MySql
+- 📝 Aprendendo Javascript
+- 😄 Pronomes: ele/dele
 <div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edhdelly&show_icons=true&theme=radical) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edhdelly&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
+<br>
 <div style="display:flex">
         <img width="40" height="30" alt="Edu-Html"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
@@ -32,6 +32,9 @@
             <img width="40" height="30" alt="Edu-wordpress"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
     </div>
+    <br>
+    <hr>
+    <br>
     <div>
         <a href="https://www.behance.net/eduhenrique1" target="_blank"> <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"> </a>
         <a href="https://www.facebook.com/edhDelly"  target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> </a>
