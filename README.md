@@ -13,6 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edhdelly&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <br>
+<h1>Minhas habilidades</h1>
 <div style="display:flex">
         <img width="40" height="30" alt="Edu-Html"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
@@ -34,8 +35,8 @@
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
     </div>
     <br>
-    <hr>
     <br>
+    <h1>Outras redes sociais</h1>
     <div>
         <a href="https://www.behance.net/eduhenrique1" target="_blank"> <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"> </a>
         <a href="https://www.facebook.com/edhDelly"  target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> </a>
