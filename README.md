@@ -2,8 +2,8 @@
 
 
 - 💻 Em busca do primeiro emprego como Front-End
-- 📚 Conhecimentos em HTML, CSS e MySql
-- 📝 Aprendendo Javascript
+- 📚 Conhecimentos em HTML, CSS, Javascript e MySql
+- 📝 Aprendendo React
 - 😄 Pronomes: ele/dele
 
 <div style="display:flex">
